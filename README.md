@@ -1,2 +1,2 @@
 # git-test
-test repository
+test repository - master
